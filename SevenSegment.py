@@ -1,3 +1,6 @@
+# NAMA : Rifaat Natsir
+# NIM  : D121231020
+
 # 0  = A, B, C, D, E, F     // G
 # 1  = B, C                 // A D E F G
 # 2  = A, B, D, E ,G        // C F
